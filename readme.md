@@ -36,11 +36,11 @@ The preprocessing pipeline involves the following key steps:
 - Python 3.x
 - FastText (You can install it via `pip install fasttext`).
 - Pandas, NumPy, and Scikit-learn (Install them using `pip install pandas numpy scikit-learn`).
-
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/content-moderation.git
-   cd content-moderation
+- 
 ## Demo Video
+
+For a quick look at the system in action, watch the demo video below:
+
+![Demo Video](https://github.com/Ashish75585/Content-Moderation/blob/main/chrome_1ozB55kbPD.mp4)
+
+
